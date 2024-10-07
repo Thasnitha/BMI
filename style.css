@@ -1,0 +1,260 @@
+*{
+    margin: 0;
+    padding: 0;
+    top: 0;
+    height: 100%;
+    box-sizing: border-box;
+    left: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    background: url(./IMAGES/body\ builder3.jpg);
+    background-size: cover;
+    background-repeat: none;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+ 
+   
+}
+#navbarSupportedContent{
+    margin-left: 50%;
+    position: relative;
+
+
+}
+.mainhead{
+    position: relative;
+    margin-top: -70vh;
+    color: white;
+    margin-left: 50px;
+}
+.button1{
+    margin-top: -55vh;
+    margin-left: 50px;
+    border-radius: 10px ;
+    border: none;
+
+}
+.box{
+    height: 600px;
+    width: 100%;
+    opacity: 0.8;
+    background-color: black;
+}
+#main{
+    background: url(./IMAGES/body5.avif);
+    height:100px;
+    background-size: cover;
+    background-repeat: none;
+    height: 600px;
+}
+
+#head2{
+    margin-top: -43%;
+    background-color: black;
+    height: 20%;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+#head3{
+    background-color: black;
+    height: 22%;
+    padding-left: 50px;
+    padding-top: 30px;
+    margin-top: -42%;
+}
+#main2{
+    background: url(./IMAGES/girl.webp);
+    background-size: cover;
+    background-repeat: none;
+    height: 400px;
+}
+ .box2{
+    height: 400px;
+    width: 100%;
+    opacity: 0.8;
+    background-color: black;
+} 
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    margin-left: 10%;
+    column-gap: 10px;
+    flex-direction: column;
+    align-items: center;
+ 
+}
+#grida{
+    flex-direction: column;
+height: 350px;
+    border-radius: 10px;
+    width: 300px;
+    color: white;
+    border-color: orangered;
+}
+#gridb{
+    border-radius: 10px;
+    height: 350px;
+    width: 300px;
+    color: white;
+
+
+}
+#gridc{
+    border-radius: 10px;
+    height: 350px;
+    width: 300px;
+    color: white;
+
+
+}
+.button2{
+    margin-top: -100%;
+    margin-left: 20px;
+    font-size: 20px;
+}
+#head4{
+    background-color: black;
+    height: 20%;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+#main3{
+    background: url(./IMAGES/body7.jpg);
+    background-size: cover;
+    background-repeat: none;
+    height: 600px;
+}
+.box3{
+    height: 600px;
+    width: 100%;
+    opacity: 0.8;
+    background-color: black;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    column-gap: 5px;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 5%;
+    
+
+}
+#gridd{
+    background: url(./IMAGES/trainer1.webp);
+    flex-direction: column;
+height: 350px;
+    border-radius: 10px;
+    width: 250px;
+    color: white;
+    border-color: orangered;
+    background-size: cover;
+    background-repeat: none;
+    margin-top: -50%;
+}
+#gride{
+    background: url(./IMAGES/trainer5.jpg);
+    flex-direction: column;
+height: 350px;
+    border-radius: 10px;
+    width: 250px;
+    color: white;
+    border-color: orangered;
+    background-size: cover;
+    background-repeat: none;
+    margin-top: -50%;
+
+}
+#gridf{
+    background: url(./IMAGES/trainer6.jpg);
+    flex-direction: column;
+height: 350px;
+    border-radius: 10px;
+    width: 250px;
+    color: white;
+    border-color: orangered;
+    background-size: cover;
+    background-repeat: none;
+    margin-top: -50%;
+
+}
+#gridg{
+    background: url(./IMAGES/trainer7.jpg);
+    flex-direction: column;
+height: 350px;
+    border-radius: 10px;
+    width: 250px;
+    color: white;
+    border-color: orangered;
+    background-size: cover;
+    background-repeat: none;
+    margin-top: -50%;
+
+}
+#head5{
+    height: 500px;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 30px;
+   
+}
+ .list{
+    margin-top: -35%;
+
+    height: 50px;
+    margin-left: 30px;
+
+}
+ul li{
+    color: white;
+    font-size: 15px;
+} 
+#head6{
+    height: 400px;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 30px;
+   
+}
+  input{
+    height: 40px;
+    padding: 1px 7px;
+    border-radius: 5px;
+    border: 2px solid;
+  }
+  label{
+    font-weight: 600;
+  }
+.container{
+    height: 50px;
+    color: white;
+    margin-left: 50%;
+    margin-top: -40%;
+}
+#weight-guide{
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.footer{
+    background-color:rgb(53, 52, 52) ;
+    height: 300px;
+    display: flex;
+}
+.footer2{
+    background-color: orangered;
+    height: 100px;
+    margin-top: -5%;
+}
+#gridh{
+    background-color: rgb(46, 15, 15);
+    height: 100px;
+
+}
+body{
+    overflow-x: hidden;
+}
+
